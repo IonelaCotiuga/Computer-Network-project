@@ -1,1 +1,4 @@
 # Computer-Network-project
+
+O aplicatie client/server ce administreaza diferite campionate. Aplicatia server are urmatoarele functionalitati: inregistrarea utilizatorilor(diferite tipuri de utilizatori: obisnuiti, administratori).Dupa logare utilizatorii primesc informatii despre ultimele campionate inregistrate, avand posibilitatea de a se inscrie la ele.
+Comenzile implementate: inregistrarea unui campionat, specificarea jocului, numarului de jucatori, diferite reguli sau structuri de campionat(single-elimination, double elimination), modul de extragere a partidelor(deciderea partidelor), inregistrarea unui utilizator intr-un campionat, utilizatorul va fi informat via e-mail daca a fost acceptat in campionatul respectiv, si va primi informatii aditionale despre partidele sale (ora, adversarul).
